@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<classpath> 
+  <classpathentry kind="src" path="src"/>
+  <classpatyentry kind="lib" path="libs/jaylib-5.0.0-0.jar"/>
+  <classpatyentry kind="lib" path="libs/commons-math-4.0-beta1/commons-math4-core-4.0-beta.jar"/>
+  <classpatyentry kind="lib" path="libs/commons-math-4.0-beta1/commons-math4-core-4.0-beta-javadoc.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/> 
+  <classpathentry kind="output" path="bin"/>
+</classpath> 
